@@ -1,6 +1,6 @@
 # Terraform
 
-![Terraform Logo](https://www.terraform.io/assets/images/og-image-8b3e4f7d.png)
+![Terraform Logo](img/terraformio-ar21.svg)
 
 Este repositório contém o código Terraform para provisionar e gerenciar infraestrutura como código. O Terraform é uma ferramenta de código aberto desenvolvida pela HashiCorp que permite definir e provisionar recursos de infraestrutura em várias nuvens e provedores de serviços.
 
